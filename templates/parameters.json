@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "projectName": {
-            "value": ""
+            "value": "aodbpaproject"
           },
           "repositoryToken": {
-            "value": ""
+            "value": "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"
           },
           "repositoryUrl": {
-            "value": ""
+            "value": "https://github.com/deb007/business-process-automation"
           }
     }
 }
